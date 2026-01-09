@@ -1,137 +1,299 @@
-# 💫 About Me
+# 👨‍💻 Goutam Prusty
 
-# Hey, I'm Goutam.
+```ascii
+╔══════════════════════════════════════════════════════════════╗
+║  Builder → Experimenter → Open Source Contributor            ║
+║  "I don't wait for perfect. I ship, learn, and iterate."    ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-I'm a builder. I look for gaps and try to close them by shipping things — even when they’re rough, incomplete, or uncomfortable.
+<div align="center">
 
-I dropped out of college, learned quickly that execution matters more than credentials, and now I spend most of my time experimenting with AI systems, automation, and developer tools — figuring out what actually works in the real world.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/goutam-prusty)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:goutamprusty1401@gmail.com)
+[![Profile Views](https://komarev.com/ghpvc/?username=LostSkyWalker-1401&style=for-the-badge&color=blueviolet)](https://github.com/LostSkyWalker-1401)
 
-I'm 22, based in India, and early in my journey.  
-That’s intentional. I share the process, not just the outcomes.
-
----
-
-## 🚀 What I'm Building Right Now
-
-### **StillFrame AI** *(concept → early build)*
-
-An AI-powered reflective companion.
-
-I loosely call it an “AI psychologist,” but in practice it’s a system that:
-- Listens instead of rushing to answers  
-- Asks better follow-up questions  
-- Detects behavioral and emotional patterns over time  
-
-It’s **not meant to replace therapists** — the human element stays.  
-The goal is accessibility, reflection, and better tooling around self-improvement.
-
-Early-stage, experimental, and evolving.
+</div>
 
 ---
 
-## 🧪 Projects & Experiments
+## 🎯 Current Status
 
-### **clarity-ai**
-A TypeScript-based project exploring structured AI interactions and clarity-focused outputs.
-
-- Focus: clean inputs, reduced hallucination, structured reasoning
-- Status: active experimentation
-- Tech: TypeScript, modern frontend tooling
-
----
-
-### **telegram-channel-downloader** *(fork & customization)*
-A Node.js-based utility for downloading and organizing Telegram channel content.
-
-- Worked on understanding workflow, automation, and edge cases
-- Used as a learning base for async flows and scraping logic
-- Tech: Node.js
+```javascript
+const goutam = {
+  location: "India 🇮🇳",
+  age: 22,
+  status: "Building in public",
+  philosophy: "Execution > Credentials",
+  recentWin: "Merged major CI/CD PR to open-source project (18 commits, 99 files)",
+  currentFocus: ["AI Systems", "Developer Tooling", "Automation"],
+  approach: "Ship first → Learn → Iterate → Repeat"
+};
+```
 
 ---
 
-### **Workflow Manager** *(fork)*
-A workflow-oriented project used to understand:
-- GitHub Actions
-- CI/CD pipelines
+## 🚀 What I'm Building
+
+### 🧠 **StillFrame AI** — *AI-Powered Reflective Companion*
+> An experimental AI system that listens, asks better questions, and detects patterns over time.
+
+**Not a therapist replacement.** A tool for accessibility, reflection, and self-improvement.
+
+```
+Status: [████████░░] 80% — Early build → User testing
+Focus: Structured thinking, emotional pattern recognition, meaningful conversations
+```
+
+**Philosophy:**
+- Humans stay in the loop
+- AI handles data, not diagnosis
+- Privacy-first, reflection-focused
+
+---
+
+## 🛠️ Recent Achievements
+
+### ⭐ **Major Open Source Contribution**
+**Project:** [Img2Num](https://github.com/Ryan-Millard/Img2Num) — Image to numeric data converter
+
+**Impact:**
+```diff
++ Built complete CI/CD linting infrastructure from scratch
++ Created comprehensive Docusaurus documentation
++ Resolved 231 linting errors → 0 errors
++ 18 commits | 99 files changed | +1,558 / -1,126 lines
++ Offered Triage access by maintainer for continued contributions
+```
+
+**What I learned:**
+- GitHub Actions & CI/CD pipelines
+- ESLint, Prettier, clang-format integration
+- Managing complex merge conflicts & rebases
+- Professional code review processes
+- GPG commit signing & security
+
+**Tech Stack:** GitHub Actions, ESLint, Prettier, editorconfig, Docusaurus
+
+---
+
+## 🧪 Active Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🔍 **clarity-ai**
+AI interaction framework focused on structured outputs and reduced hallucination.
+
+**Key Features:**
+- Clean input processing
+- Structured reasoning chains
+- Hallucination reduction techniques
+
+**Tech:** TypeScript, Modern JS tooling
+
+</td>
+<td width="50%">
+
+### 📥 **telegram-channel-downloader**
+Automated content organization from Telegram channels.
+
+**What I Explored:**
+- Async workflows at scale
+- Scraping logic & edge cases
+- Data organization patterns
+
+**Tech:** Node.js, Async/Await patterns
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ **Workflow Manager**
+Learning project for understanding production workflows.
+
+**Focus Areas:**
+- GitHub Actions deep dive
+- CI/CD pipeline design
 - Automation-first development
 
-Primary value: learning how production workflows are actually managed.
+**Value:** Real-world workflow patterns
+
+</td>
+<td width="50%">
+
+### 🤝 **Open Source Contributions**
+Contributing to projects that matter.
+
+**Recent:**
+- CI/CD infrastructure (Img2Num)
+- Documentation improvements
+- Linting & formatting standards
+
+**Philosophy:** Fix what you use
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧠 How I Think
+## 💭 How I Think
 
-**On AI**  
-AI won’t replace people — it replaces inefficiency.  
-Small teams will do what required large orgs earlier. That’s the shift that matters.
+<details>
+<summary><b>🤖 On AI</b></summary>
 
-I’m optimistic about AI because it’s solving real problems, not just creating narratives.
+```
+AI doesn't replace people. It replaces inefficiency.
 
-**On Business**  
-I don’t memorize frameworks.  
+Small teams will do what required large orgs before.
+That's the shift that matters.
+
+I'm optimistic because AI solves real problems,
+not just creates narratives.
+```
+</details>
+
+<details>
+<summary><b>💼 On Business</b></summary>
+
+```
+I don't memorize frameworks.
 I look at what shipped last quarter and why it worked.
 
-If an idea doesn’t survive contact with reality, I discard it.
+If an idea doesn't survive contact with reality, I discard it.
 
-**On Learning**  
-My opinions are version-controlled.  
-When I’m wrong, I update.
+Execution beats planning every time.
+```
+</details>
 
----
+<details>
+<summary><b>📚 On Learning</b></summary>
 
-## 🔧 How I Work
+```
+My opinions are version-controlled.
+When I'm wrong, I update.
 
-- I build first, explain second  
-- If I can’t demo it, I don’t claim expertise  
-- I document failures as honestly as wins  
-- Progress > polish (early on)
+Learning in public means:
+- Documenting failures honestly
+- Sharing the messy middle
+- Updating beliefs based on evidence
 
----
-
-## 🤝 What I'm Looking For
-
-- Founders or teams building serious products
-- Companies experimenting with AI beyond surface-level hype
-- People who value **clear thinking + execution**
-
-If you’re here for tool lists or motivational quotes — wrong profile.  
-If you’re building and want someone who tests ideas instead of selling them — let’s talk.
+Progress > Perfection
+```
+</details>
 
 ---
 
-## 🎯 Current Focus
+## 🎨 How I Work
 
-- Shipping early versions of StillFrame
-- Studying real-world AI systems and workflows
-- Becoming reliable at execution, not just ideation
+```yaml
+philosophy:
+  - build_first: "Demo before claiming expertise"
+  - learn_public: "Document failures as honestly as wins"
+  - iterate_fast: "Progress > Polish (early on)"
+  - stay_honest: "If it doesn't work, say so"
+
+workflow:
+  morning: "Review yesterday's experiments"
+  work: "Ship something, even if small"
+  evening: "Document what broke and why"
+  
+mindset: "Early. Breaking things. Learning publicly."
+```
+
+---
+
+## 🤝 Open to Collaborate On
+
+I'm looking for:
+
+- 🏢 **Founders/teams** building serious products
+- 🤖 **AI companies** experimenting beyond surface-level hype  
+- 🧠 **Clear thinkers** who value execution over ideas
+- 🛠️ **Open source projects** that need infrastructure work
+
+**Not interested in:**
+- ❌ Tool list discussions
+- ❌ Motivational quote exchanges
+- ❌ Pure ideation without execution
+
+**What I bring:**
+- ✅ Test ideas instead of selling them
+- ✅ Build working prototypes quickly
+- ✅ Document honestly (failures included)
+- ✅ CI/CD & DevOps infrastructure skills
+
+---
+
+## 📈 GitHub Analytics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LostSkyWalker-1401&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=LostSkyWalker-1401&theme=tokyonight&hide_border=true)
+
+</div>
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LostSkyWalker-1401&theme=tokyonight&hide_border=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 Achievement Showcase
+
+```
+📌 Recent Highlights:
+
+🎯 Merged 18-commit PR resolving 231 linting errors
+🔧 Built CI/CD infrastructure for open-source project  
+📚 Created comprehensive Docusaurus documentation
+🤝 Offered Triage access for continued contributions
+⚡ Resolved complex formatter conflicts (Prettier/clang-format/editorconfig)
+🔐 Implemented GPG commit signing workflow
+```
 
 ---
 
 ## 🔥 Bottom Line
 
-I’m early.
-I’ll break things.
-I’ll learn in public.
+```rust
+fn main() {
+    let status = Status {
+        stage: "Early",
+        approach: "Breaking things",
+        style: "Learning in public",
+        belief: "Credibility comes from building"
+    };
+    
+    loop {
+        build();
+        ship();
+        learn();
+        iterate();
+    }
+}
+```
 
-Credibility comes from building — and I’m building.
+**I'm here to build, not to impress.**
+
+If you value **execution over credentials**, let's connect.
 
 ---
 
-## 🌐 Socials
+<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/goutam-prusty)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:goutamprusty1401@gmail.com)
+### 💬 "The best time to start was yesterday. The second best time is now."
 
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=LostSkyWalker-1401&theme=dark&hide_border=false)
-![](https://nirzak-streak-stats.vercel.app/?user=LostSkyWalker-1401&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LostSkyWalker-1401&theme=dark&hide_border=false&layout=compact)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 
-### ✍️ Random Dev Quote
+**Last Updated:** January 2026 | **Status:** Actively Building 🚀
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
